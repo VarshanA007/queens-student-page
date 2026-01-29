@@ -3,11 +3,11 @@ Inlcuded are two courses I have taken and am currently taking, the programming l
 
 Files : 
 
-index.html
+- `index.html`
 The executable program of the webpage itself 
 
-style.css
+`style.css`
 Responsible for the style, design, and colours involved in the webpage. 
 
-me.jpg
+'me.jpg'
 Picture of myself displayed on the webpage along with information about me. 
