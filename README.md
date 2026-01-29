@@ -6,8 +6,8 @@ Files :
 - `index.html`
 The executable program of the webpage itself 
 
--`style.css`
+- `style.css`
 Responsible for the style, design, and colours involved in the webpage. 
 
--'varshan.jpg'
+- 'varshan.jpg'
 Picture of myself displayed on the webpage along with information about me. 
